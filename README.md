@@ -48,7 +48,6 @@
 <p align="left">
   - <a href="https://github.com/munasheblessing" target="_blank">GitHub Profile</a>
   - <a href="https://linkedin.com/in/munasheblessing" target="_blank">LinkedIn Profile</a>
-  - <a href="mailto:munashe.blessing@example.com" target="_blank">Email Me</a>
 </p>
 
 <h3 align="left">Ethical Hacking & Security:</h3>
@@ -58,7 +57,7 @@
 
 <div style="text-align: center; margin-top: 20px;">
   <p>For more details or collaborations, feel free to reach out!</p>
-  <a href="mailto:munashe.blessing@example.com">Get in Touch</a>
+  <a href="mailto:nyarwendom@gmail.com">Get in Touch</a>
 </div>
 
 </body>
