@@ -32,9 +32,7 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  - Certified Ethical Hacker (CEH)
-  - Penetration Testing Professional (PMP)
-  - CompTIA Security+ Certified Expert
+  - Pending
 </p>
 
 <h3 align="left">Training Offered:</h3>
