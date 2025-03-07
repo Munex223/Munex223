@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1 align="center">Hi 👋, I'm Munashe Blessing Nyarwendo</h1>
+<h1 align="center">Hi 👋, I'm Munashe</h1>
 <h3 align="center">A passionate cybersecurity professional</h3>
 
 <h3 align="left">Connect with me:</h3>
